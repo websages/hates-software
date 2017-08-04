@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+<a class="twitter-timeline" href="https://twitter.com/hates_software">Tweets by hates_software</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
